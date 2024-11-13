@@ -1,2 +1,2 @@
-# AR-TECH-PARTS 
+# AR-CRACKERS 
  This project focuses on developing a marker-based AR app that brings technical parts to life by enabling users to scan markers and view 3D models of components like motors, computer hardware, and sensors. With detailed, interactive models and component explanations, the app serves as an engaging learning platform for engineering students, technicians, and enthusiasts. Users can explore the inner workings and assembly processes of various components, making technical education accessible, interactive, and immersive.
